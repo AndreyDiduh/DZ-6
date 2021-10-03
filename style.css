@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.wrap{
+    background-color: greenyellow;
+    height: 1500px;
+}
+
+
+
+.rect{
+    width: 30%;
+    height: 700px;
+    background-color:  red;
+    margin: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+
+ .text{
+    width: 50%;
+    height: 150px;
+    background-color: blue;
+    margin: 100px;
+    overflow: scroll;
+}
+
+.text-text{
+    width: 50%;
+    height: 150px;
+    background-color: blue;
+    margin: 100px;
+    overflow: scroll;
+}
+
